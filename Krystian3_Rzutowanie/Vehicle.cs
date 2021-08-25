@@ -9,6 +9,7 @@ namespace Krystian3_Rzutowanie
         void Boo()
         {
             Console.WriteLine("Test");
+            Console.WriteLine("Dwa");
         }
     }
 }
