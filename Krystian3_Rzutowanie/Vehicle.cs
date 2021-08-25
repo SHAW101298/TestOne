@@ -10,6 +10,7 @@ namespace Krystian3_Rzutowanie
         {
             Console.WriteLine("Test");
             Console.WriteLine("Dwa");
+            Console.WriteLine("Cztery");
         }
     }
 }
