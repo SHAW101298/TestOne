@@ -6,5 +6,9 @@ namespace Krystian3_Rzutowanie
 {
     public class Vehicle
     {
+        void Boo()
+        {
+            Console.WriteLine("Test");
+        }
     }
 }
