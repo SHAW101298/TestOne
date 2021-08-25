@@ -12,6 +12,8 @@ namespace Krystian3_Rzutowanie
             Console.WriteLine("Dwa");
             Console.WriteLine("Cztery");
             Console.WriteLine("Piec");
+            Console.WriteLine("Szesc");
+            Console.WriteLine("Siedem");
         }
     }
 }
