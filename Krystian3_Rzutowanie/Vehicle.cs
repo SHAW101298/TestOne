@@ -17,6 +17,7 @@ namespace Krystian3_Rzutowanie
             Console.WriteLine("Osiem");
             Console.WriteLine("Dziewiec");
             Console.WriteLine("Dziesiec");
+            Console.WriteLine("Jedenascie");
         }
     }
 }
